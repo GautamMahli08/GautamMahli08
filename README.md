@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/GitHub-GautamMahli08-0D1117?style=flat-square&logo=github&logoColor=22D3EE&labelColor=0D1117&color=22D3EE"/>
 </a>
 &nbsp;
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/gautam-mahli-b33108200/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=flat-square&logo=linkedin&logoColor=22D3EE&labelColor=0D1117&color=22D3EE"/>
 </a>
 &nbsp;
