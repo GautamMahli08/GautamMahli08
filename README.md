@@ -210,13 +210,7 @@ class GautamMahli:
 
 ---
 
-# 🐍 Contribution Snake
 
-<div align="center">
-
-![snake gif](https://github.com/GautamMahli08/GautamMahli08/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ---
 
