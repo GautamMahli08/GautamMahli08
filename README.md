@@ -1,75 +1,141 @@
-# Hi there 👋 I'm Mahli
+<div align="center">
 
-Backend Developer focused on building real-time systems, IoT platforms, and scalable APIs.
+# Mahli
 
-Currently working on:
-- Vehicle monitoring systems
-- GPS tracking & geofence alerts
-- MQTT & WebSocket real-time communication
-- Fuel monitoring workflows
+### Backend Developer • IoT Systems • Real-Time Monitoring
+
+Building scalable backend systems focused on vehicle tracking, fuel monitoring, MQTT communication, and live telemetry platforms.
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+Developer;FastAPI+%7C+Node.js+%7C+React;MQTT+%7C+WebSockets+%7C+MongoDB;Real-Time+Vehicle+Monitoring+Systems)](https://git.io/typing-svg)
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0e75b6)
+
+</div>
 
 ---
 
-## Tech Stack
+# About Me
 
-### Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-000?style=flat&logo=fastapi)
-![NodeJS](https://img.shields.io/badge/Node.js-000?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000?style=flat&logo=express)
-![JWT](https://img.shields.io/badge/JWT-000?style=flat&logo=jsonwebtokens)
+- Building real-time vehicle monitoring platforms
+- Working with MQTT, WebSockets, GPS telemetry & geofencing
+- Interested in scalable backend architecture & distributed systems
+- Focused on production-ready APIs and real-world IoT workflows
+
+---
+
+# Tech Stack
+
+<div align="center">
+
+### Backend & APIs
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,javascript,typescript" />
 
 ### Frontend
-![React](https://img.shields.io/badge/React-000?style=flat&logo=react)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=flat&logo=tailwindcss)
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
 
-### Database & Realtime
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat&logo=mongodb)
-![WebSocket](https://img.shields.io/badge/WebSocket-000?style=flat)
-![MQTT](https://img.shields.io/badge/MQTT-000?style=flat)
+### Database & Cloud
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,docker" />
 
----
+### Realtime & Tools
+<img src="https://skillicons.dev/icons?i=git,github,linux" />
 
-## Projects
-
-### Vehicle Monitoring Platform
-Real-time monitoring dashboard with:
-- GPS tracking
-- Fuel tampering alerts
-- Geofence detection
-- MQTT ingestion
-- Live WebSocket updates
-
-### Fuel Delivery Workflow System
-Backend workflow platform including:
-- QR delivery verification
-- Order tracking
-- Tank compartment management
-- Delivery confirmation workflow
+</div>
 
 ---
 
-## GitHub Stats
+# Featured Projects
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
+## Vehicle Monitoring System
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark)
-
----
-
-## Activity Graph
-
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark)](https://github.com/YOUR_USERNAME)
-
----
-
-## Contributions
-
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+Real-time GPS tracking platform with:
+- Live vehicle telemetry
+- Fuel tampering detection
+- Geofence breach alerts
+- MQTT data ingestion
+- WebSocket live dashboard
+- Multi-client architecture
 
 ---
 
-## Connect
+## Fuel Delivery Workflow Platform
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINK
-- Email: yourmail@example.com
+Workflow management system featuring:
+- QR-based delivery verification
+- Tank compartment monitoring
+- Order & dispatch management
+- Live delivery status tracking
+- Centralized monitoring dashboard
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+# Activity Graph
+
+<div align="center">
+
+[![Mahli's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact)](https://github.com/YOUR_USERNAME)
+
+</div>
+
+---
+
+# Contributions Snake
+
+<div align="center">
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+# Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINK">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:yourmail@example.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### "Building scalable real-time systems with practical impact."
+
+</div>
