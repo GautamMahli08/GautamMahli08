@@ -1,16 +1,57 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Gautam%20Kumar%20Mahli&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Backend%20Engineer%20•%20IoT%20Systems%20•%20Real-Time%20Platforms&descAlignY=60"/> <br> <img src="https://media.licdn.com/dms/image/v2/D4D03AQHflCdv4sNw0g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1699330043093?e=1779926400&v=beta&t=p8V4gFooSHjv3TiRRZ0qP_xlVpovid_yV9ToDKLNGg0" /> <br><br> <img src="https://komarev.com/ghpvc/?username=GautamMahli08&style=for-the-badge&color=blueviolet"/> <img src="https://img.shields.io/github/followers/GautamMahli08?style=for-the-badge&logo=github"/> <img src="https://img.shields.io/github/stars/GautamMahli08?style=for-the-badge&logo=github"/> </div> --- # 🎭 About Me
-python
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=Gautam%20Kumar%20Mahli&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20•%20IoT%20Systems%20•%20Real-Time%20Platforms&descAlignY=60&animation=fadeIn"/>
+
+<br>
+
+<img width="220" style="border-radius:50%;" src="https://media.licdn.com/dms/image/v2/D4D03AQHflCdv4sNw0g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1699330043093?e=1779926400&v=beta&t=p8V4gFooSHjv3TiRRZ0qP_xlVpovid_yV9ToDKLNGg0"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+Focused+Software+Engineer+🚀;FastAPI+%7C+Go+%7C+MongoDB+%7C+AWS;Building+Real-Time+IoT+Platforms;Fuel+Monitoring+%7C+Fleet+Management;RAG+Applications+%7C+Microservices"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=GautamMahli08&style=for-the-badge&color=blueviolet"/>
+
+<img src="https://img.shields.io/github/followers/GautamMahli08?style=for-the-badge&logo=github&color=181717"/>
+
+<img src="https://img.shields.io/github/stars/GautamMahli08?style=for-the-badge&logo=github&color=181717"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+</div>
+
+---
+
+# 🎭 About Me
+
+```python
 class GautamMahli:
+
     def __init__(self):
-        self.role = "Backend Focused SDE"
+        self.role = "Backend Focused SDE 🚀"
         self.location = "Ranchi, Jharkhand 🇮🇳"
-        self.languages = ["Python", "Go", "JavaScript", "C++"]
+
+        self.languages = [
+            "Python",
+            "Go",
+            "JavaScript",
+            "C++"
+        ]
+
         self.specialization = [
-            "Real-Time Systems",
-            "IoT Platforms",
-            "Scalable APIs",
-            "RAG Applications",
-            "Microservices"
+            "Real-Time Systems ⚡",
+            "IoT Platforms 📡",
+            "Scalable APIs 🚀",
+            "RAG Applications 🤖",
+            "Microservices 🛰️"
         ]
 
     def current_focus(self):
@@ -20,7 +61,126 @@ class GautamMahli:
             "AWS Automation ☁️",
             "High Performance APIs ⚡"
         ]
---- # ⚔️ Tech Arsenal <div align="center"> <img src="https://skillicons.dev/icons?i=python,go,fastapi,django,nodejs,express,react,mongodb,postgres,mysql,docker,aws,linux,git,github&perline=5"/> </div> --- # 🚀 Professional Experience <div align="center"> ## 🛰️ Full Stack Developer — ANPTCO (Oman) ### Aug 2025 — Present </div> ✨ Engineering a multi-role SaaS platform for real-time fuel monitoring and fleet management across multiple organizations. <table> <tr> <td width="50%"> ### 🔥 Core Contributions - Multi-tenant SaaS architecture - JWT RBAC for 5 user roles - Atomic transaction-based signup flow - Protected middleware routing - Real-time dashboard systems </td> <td width="50%"> ### 📡 IoT & Realtime - GPSWOX telemetry integration - 50+ vehicle live tracking - Compartment fuel visibility - Auto-refresh analytics dashboards - Event-driven monitoring systems </td> </tr> </table> --- <div align="center"> ## 💻 SDE Intern — Roam Mobility Pvt Ltd ### June 2025 — July 2025 </div> 🏆 Key Achievements: - ⚡ Reduced backend workflow runtime from **15 mins → 1–2 mins** - ☁️ Automated recurring operations using AWS Lambda - 🚀 Improved API throughput by ~30% using Go goroutines - 🔄 Eliminated manual operational overhead (~5 hrs/week) --- # 🧠 Featured Projects <div align="center"> ## 🤖 AI-Powered Exam Preparation Platform </div> ### ⚡ Stack FastAPI • Qdrant • RAG • Ollama • Streamlit ### 🎯 Features - 📚 Textbook Uploads - 🔍 Semantic Vector Search - 🧠 AI Question Generation - 📝 Answer Evaluation - 📖 Smart Revision Notes ### 🚀 Performance > Achieved semantic answer retrieval in under **2 seconds** --- <div align="center"> ## 🛡️ T.I.E.S Platform </div> ### ⚡ Stack FastAPI • MongoDB • JWT • Docker ### 🔥 Highlights - OTP Authentication - RBAC for 7 Roles - 20+ Async REST APIs - Dockerized Backend - Optimized MongoDB Queries 📈 Improved response time by **~40%**
+```
+
+---
+
+# ⚔️ Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,go,fastapi,django,nodejs,express,react,mongodb,postgres,mysql,docker,aws,linux,git,github&perline=5"/>
+
+</div>
+
+---
+
+# 🚀 Professional Experience
+
+<div align="center">
+
+## 🛰️ Full Stack Developer — ANPTCO (Oman)
+
+### `Aug 2025 — Present`
+
+</div>
+
+✨ Engineering a multi-role SaaS platform for real-time fuel monitoring and fleet management across multiple organizations.
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🔥 Core Contributions
+
+- Multi-tenant SaaS architecture
+- JWT RBAC for 5 user roles
+- Atomic transaction-based signup flow
+- Protected middleware routing
+- Real-time dashboard systems
+
+</td>
+
+<td width="50%">
+
+### 📡 IoT & Realtime
+
+- GPSWOX telemetry integration
+- 50+ vehicle live tracking
+- Compartment fuel visibility
+- Auto-refresh analytics dashboards
+- Event-driven monitoring systems
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 💻 SDE Intern — Roam Mobility Pvt Ltd
+
+### `June 2025 — July 2025`
+
+</div>
+
+🏆 Key Achievements
+
+- ⚡ Reduced backend workflow runtime from **15 mins → 1–2 mins**
+- ☁️ Automated recurring operations using AWS Lambda
+- 🚀 Improved API throughput by ~30% using Go goroutines
+- 🔄 Eliminated manual operational overhead (~5 hrs/week)
+
+---
+
+# 🧠 Featured Projects
+
+<div align="center">
+
+## 🤖 AI-Powered Exam Preparation Platform
+
+</div>
+
+### ⚡ Stack
+
+`FastAPI` • `Qdrant` • `RAG` • `Ollama` • `Streamlit`
+
+### 🎯 Features
+
+- 📚 Textbook Uploads
+- 🔍 Semantic Vector Search
+- 🧠 AI Question Generation
+- 📝 Answer Evaluation
+- 📖 Smart Revision Notes
+
+### 🚀 Performance
+
+> Achieved semantic answer retrieval in under **2 seconds**
+
+---
+
+<div align="center">
+
+## 🛡️ T.I.E.S Platform
+
+</div>
+
+### ⚡ Stack
+
+`FastAPI` • `MongoDB` • `JWT` • `Docker`
+
+### 🔥 Highlights
+
+- OTP Authentication
+- RBAC for 7 Roles
+- 20+ Async REST APIs
+- Dockerized Backend
+- Optimized MongoDB Queries
+
+📈 Improved response time by **~40%**
 
 ---
 
