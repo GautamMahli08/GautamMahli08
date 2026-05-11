@@ -71,7 +71,7 @@ var me = Engineer{
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,go,fastapi,django,nodejs,express,react,mongodb,postgres,mysql,docker,aws,linux,git,github&perline=5"/>
+<img src="https://skillicons.dev/icons?i=python,go,fastapi,django,nodejs,express,react,mongodb,postgres,mysql,docker,aws,linux,git,mqtt,github&perline=5"/>
 
 </div>
 
