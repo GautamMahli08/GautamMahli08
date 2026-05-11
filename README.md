@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Backend+Focused+Software+Engineer+🚀;FastAPI+%7C+Go+%7C+MongoDB+%7C+AWS;Building+Real-Time+IoT+Platforms;RAG+Applications+%7C+Microservices;Fuel+Monitoring+%7C+Fleet+Management" />
+
 
 <br><br>
 
