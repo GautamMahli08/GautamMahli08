@@ -1,30 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:1E293B,100:334155&text=Gautam%20Kumar%20Mahli&fontSize=44&fontColor=E2E8F0&fontAlignY=40&desc=Backend%20Engineer%20•%20Real-Time%20Systems%20•%20IoT%20Platforms&descAlignY=62&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,25:0F172A,50:1E293B,75:334155,100:475569&text=Gautam%20Kumar%20Mahli&fontSize=50&fontColor=E2E8F0&fontAlignY=38&desc=Backend%20Engineer%20•%20Real-Time%20Systems%20•%20IoT%20Platforms&descAlignY=58&animation=fadeIn"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems+⚡;FastAPI+•+Go+•+MongoDB+•+AWS;Real-Time+Fleet+Monitoring+🚚;RAG+Applications+•+Microservices+🤖" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=1000&lines=Building+High-Performance+Backend+Systems+⚡;FastAPI+•+Go+•+MongoDB+•+AWS;IoT+Telemetry+•+Fleet+Monitoring+🚚;RAG+Applications+•+Microservices+🤖;Scaling+Real-Time+Platforms+🚀" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=GautamMahli08&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/badge/Backend%20Engineer-0F172A?style=for-the-badge&logo=serverless&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/IoT%20Developer-0F172A?style=for-the-badge&logo=iot&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Real--Time%20Systems-0F172A?style=for-the-badge&logo=socketdotio&logoColor=38BDF8"/>
 
-<img src="https://img.shields.io/github/followers/GautamMahli08?style=for-the-badge&logo=github&color=111827"/>
+<br/><br/>
 
-<img src="https://img.shields.io/github/stars/GautamMahli08?style=for-the-badge&logo=github&color=111827"/>
+<img src="https://komarev.com/ghpvc/?username=GautamMahli08&style=flat-square&color=38BDF8&label=PROFILE+VIEWS"/>
 
-</div>
+<img src="https://img.shields.io/github/followers/GautamMahli08?style=flat-square&logo=github&color=111827"/>
 
----
-
-<div align="center">
-
-<img width="420" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHBkYzI3OHN0d2M4bG9qa3F5bXBxbWh6cHBpb3M1eW44N2N6MGc4NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img src="https://img.shields.io/github/stars/GautamMahli08?style=flat-square&logo=github&color=111827"/>
 
 </div>
 
 ---
+
+<table>
+<tr>
+<td width="60%">
 
 # 👨‍💻 About Me
 
@@ -36,58 +38,50 @@ Role:
   Backend Focused Software Engineer
 
 Specialization:
-  - Real-Time Systems
-  - IoT Platforms
-  - Microservices
-  - Scalable APIs
-  - RAG Applications
+  - Real-Time Systems ⚡
+  - IoT Platforms 📡
+  - RAG Applications 🤖
+  - Distributed Architectures 🚀
+  - Microservices 🛰️
 
-Currently Building:
-  - Fleet Monitoring Systems 🚚
-  - Fuel Telemetry Platforms ⛽
-  - Event-Driven Architectures ⚡
-  - High Performance APIs 🚀
+Current Focus:
+  - Fleet Monitoring 🚚
+  - Fuel Telemetry ⛽
+  - Event-Driven Pipelines ⚡
+  - High Throughput APIs 🚀
 ```
 
----
+</td>
 
-# ⚡ Tech Stack
+<td width="40%">
 
 <div align="center">
 
-### Languages
+<img width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3dpcHJnNG9pYzlyODlzN2o3Mnl5b3lncG9jMW80NGJvMTR2MWh3YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<img src="https://skillicons.dev/icons?i=python,go,javascript,cpp" />
+</div>
 
-<br/><br/>
+</td>
+</tr>
+</table>
 
-### Backend & Cloud
+---
 
-<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,express,docker,aws" />
+# ⚡ Tech Ecosystem
 
-<br/><br/>
+<div align="center">
 
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" />
-
-<br/><br/>
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=python,go,fastapi,django,nodejs,express,react,mongodb,postgres,mysql,docker,aws,linux,redis,git,github&perline=8"/>
 
 </div>
 
 ---
 
-# 💼 Professional Experience
+# 💼 Experience
 
 <div align="center">
 
-## 🛰️ Full Stack Developer — ANPTCO (Oman)
-
-`Aug 2025 — Present`
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&pause=2000&color=38BDF8&center=true&vCenter=true&width=600&lines=Professional+Journey"/>
 
 </div>
 
@@ -96,25 +90,43 @@ Currently Building:
 
 <td width="50%">
 
-### 🔹 Platform Engineering
+## 🛰️ ANPTCO (Oman)
+
+### Full Stack Developer
+
+`Aug 2025 — Present`
+
+### Key Contributions
 
 - Multi-tenant SaaS architecture
 - JWT RBAC for 5 user roles
-- Secure middleware routing
-- PostgreSQL relational schema
-- Atomic transaction-based workflows
+- GPSWOX telemetry integration
+- 50+ vehicle live tracking
+- Compartment fuel visibility
+- Atomic PostgreSQL workflows
+- Middleware-level route protection
 
 </td>
 
 <td width="50%">
 
-### 🔹 Real-Time Systems
+## 💻 Roam Mobility Pvt Ltd
 
-- GPSWOX telemetry integration
-- Live monitoring for 50+ vehicles
-- Compartment-level fuel visibility
-- Auto-refresh analytics dashboards
-- Event-driven IoT pipelines
+### SDE Intern
+
+`June 2025 — July 2025`
+
+### Achievements
+
+- Reduced workflow runtime  
+  **15 mins → 1–2 mins ⚡**
+
+- AWS Lambda automations ☁️
+
+- Improved throughput by  
+  **~30% using Go goroutines 🚀**
+
+- Eliminated repetitive manual operations
 
 </td>
 
@@ -123,76 +135,77 @@ Currently Building:
 
 ---
 
-<div align="center">
-
-## 💻 SDE Intern — Roam Mobility Pvt Ltd
-
-`June 2025 — July 2025`
-
-</div>
-
-- Reduced recurring backend workflow runtime from **15 mins → 1–2 mins**
-- Automated operational tasks using AWS Lambda
-- Improved API throughput by ~30% with Go goroutines
-- Optimized backend reliability and execution flow
-
----
-
 # 🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/GautamMahli08">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GautamMahli08&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&border_radius=18&bg_color=0F172A"/>
+<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=GautamMahli08&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&border_radius=18&bg_color=020617"/>
 </a>
 
 <a href="https://github.com/GautamMahli08">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GautamMahli08&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&border_radius=18&bg_color=0F172A"/>
+<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=GautamMahli08&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&border_radius=18&bg_color=020617"/>
 </a>
 
 </div>
 
----
+<br/>
 
-# 🤖 AI-Powered Exam Preparation Platform
+<table>
+<tr>
+
+<td width="50%">
+
+# 🤖 AI Exam Platform
 
 ```txt
-FastAPI • Streamlit • Qdrant • RAG • Ollama
+FastAPI • Qdrant • Ollama • RAG
 ```
 
-- Semantic textbook search
-- AI-generated practice questions
-- Answer evaluation workflows
-- Smart revision note generation
-- Sub-2 second retrieval pipeline ⚡
+### Features
 
----
+- Semantic textbook search
+- AI practice question generation
+- Smart revision notes
+- Answer evaluation workflows
+- Sub-2 second retrieval ⚡
+
+</td>
+
+<td width="50%">
 
 # 🛡️ T.I.E.S Platform
 
 ```txt
-FastAPI • MongoDB • JWT • Docker
+FastAPI • MongoDB • Docker
 ```
 
+### Features
+
 - OTP Authentication
-- RBAC for 7 Roles
-- 20+ Async REST APIs
-- Dockerized deployment pipeline
-- ~40% Faster response optimization
+- RBAC for 7 roles
+- 20+ Async APIs
+- Dockerized backend
+- ~40% faster responses 🚀
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Insights
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GautamMahli08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GautamMahli08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GautamMahli08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GautamMahli08&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=GautamMahli08&theme=tokyonight&hide_border=true&background=0F172A"/>
+<img src="https://streak-stats.demolab.com?user=GautamMahli08&theme=tokyonight&hide_border=true&background=020617"/>
 
 </div>
 
@@ -202,7 +215,7 @@ FastAPI • MongoDB • JWT • Docker
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GautamMahli08&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GautamMahli08&theme=tokyo-night&hide_border=true&bg_color=020617"/>
 
 </div>
 
@@ -212,26 +225,26 @@ FastAPI • MongoDB • JWT • Docker
 
 <div align="center">
 
-![snake gif](https://github.com/GautamMahli08/GautamMahli08/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github.com/GautamMahli08/GautamMahli08/blob/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Connect
 
 <div align="center">
 
 <a href="https://github.com/GautamMahli08">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=38BDF8"/>
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
 </a>
 
 <a href="mailto:mahligautam83@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-E11D48?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-020617?style=for-the-badge&logo=gmail&logoColor=38BDF8"/>
 </a>
 
 </div>
@@ -240,12 +253,12 @@ FastAPI • MongoDB • JWT • Docker
 
 <div align="center">
 
-### ⚡ “Building scalable systems with real-world impact.”
-
-<br/>
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&pause=3000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Systems+That+Scale+🚀"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:1E293B,100:334155"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:020617,25:0F172A,50:1E293B,75:334155,100:475569"/>
