@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="[https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Backend+Focused+Software+Engineer+🚀;FastAPI+%7C+Go+%7C+MongoDB+%7C+AWS;Building+Real-Time+IoT+Platforms;RAG+Applications+%7C+Microservices;Fuel+Monitoring+%7C+Fleet+Management](https://media.licdn.com/dms/image/v2/D4D03AQHflCdv4sNw0g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1699330043093?e=1779926400&v=beta&t=p8V4gFooSHjv3TiRRZ0qP_xlVpovid_yV9ToDKLNGg0)" />
+<img src="https://media.licdn.com/dms/image/v2/D4D03AQHflCdv4sNw0g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1699330043093?e=1779926400&v=beta&t=p8V4gFooSHjv3TiRRZ0qP_xlVpovid_yV9ToDKLNGg0" />
 
 <br><br>
 
