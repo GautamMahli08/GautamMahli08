@@ -65,23 +65,17 @@ var me = Engineer{
 
 <br clear="right"/>
 
-***
+---
 
-## `$ cat tech_stack.json`
+# ⚔️ Tech Arsenal
 
 <div align="center">
 
-| Layer | Technologies |
-|---|---|
-| **Languages** |     |
-| **Backend** |     |
-| **Databases** |     |
-| **Cloud & DevOps** |    |
-| **Tools** |    |
+<img src="https://skillicons.dev/icons?i=python,go,fastapi,django,nodejs,express,react,mongodb,postgres,mysql,docker,aws,linux,git,github&perline=5"/>
 
 </div>
 
-***
+---
 
 ## `$ cat experience.log`
 
