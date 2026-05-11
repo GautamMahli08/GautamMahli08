@@ -71,8 +71,13 @@ var me = Engineer{
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,go,fastapi,django,nodejs,express,react,mongodb,postgres,mysql,docker,aws,linux,,mqtt,git,mqtt,github&perline=5"/>
+<img src="https://skillicons.dev/icons?i=python,go,fastapi,django,nodejs,express,react,mongodb,postgres,mysql,docker,aws,linux,git,github&perline=5"/>
 
+<br><br>
+
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/REST%20API-0EA5E9?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </div>
 
 ---
