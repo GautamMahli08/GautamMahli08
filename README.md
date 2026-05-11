@@ -1,110 +1,155 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Gautam+Kumar+Mahli;Backend+Focused+SDE;Building+Real-Time+Systems+%F0%9F%9A%80;FastAPI+%7C+Go+%7C+MongoDB+%7C+AWS;IoT+%7C+RAG+%7C+Microservices" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Gautam%20Kumar%20Mahli&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Backend%20Engineer%20•%20IoT%20Systems%20•%20Real-Time%20Platforms&descAlignY=60"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=GautamMahli08&style=for-the-badge&color=blueviolet" />
+<img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Backend+Focused+Software+Engineer+🚀;FastAPI+%7C+Go+%7C+MongoDB+%7C+AWS;Building+Real-Time+IoT+Platforms;RAG+Applications+%7C+Microservices;Fuel+Monitoring+%7C+Fleet+Management" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=GautamMahli08&style=for-the-badge&color=blueviolet"/>
+
+<img src="https://img.shields.io/github/followers/GautamMahli08?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/GautamMahli08?style=for-the-badge&logo=github"/>
 
 </div>
 
 ---
 
-# 🧑‍💻 About Me
+# 🎭 About Me
 
-🎯 Backend-focused Software Development Engineer passionate about building scalable systems, real-time dashboards, and intelligent backend workflows.
+```python
+class GautamMahli:
+    def __init__(self):
+        self.role = "Backend Focused SDE"
+        self.location = "Ranchi, Jharkhand 🇮🇳"
+        self.languages = ["Python", "Go", "JavaScript", "C++"]
+        self.specialization = [
+            "Real-Time Systems",
+            "IoT Platforms",
+            "Scalable APIs",
+            "RAG Applications",
+            "Microservices"
+        ]
 
-⚡ Experienced across:
-- Real-time IoT systems
-- Fleet & fuel monitoring platforms
-- AI-powered RAG applications
-- Event-driven backend architectures
-- Multi-tenant SaaS systems
-
-📍 Ranchi, Jharkhand  
-📧 mahligautam83@gmail.com  
-💼 LinkedIn  
-🌐 GitHub  
+    def current_focus(self):
+        return [
+            "Fleet Monitoring 🚚",
+            "Fuel Telemetry ⛽",
+            "AWS Automation ☁️",
+            "High Performance APIs ⚡"
+        ]
+```
 
 ---
 
-# 🚀 Tech Stack
+# ⚔️ Tech Arsenal
 
 <div align="center">
 
-### 👨‍💻 Languages
-<img src="https://skillicons.dev/icons?i=python,go,javascript,cpp" />
-
-### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,express" />
-
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,html,css" />
-
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
-
-### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
+<img src="https://skillicons.dev/icons?i=python,go,fastapi,django,nodejs,express,react,mongodb,postgres,mysql,docker,aws,linux,git,github&perline=5"/>
 
 </div>
 
 ---
 
-# 💼 Experience
+# 🚀 Professional Experience
+
+<div align="center">
 
 ## 🛰️ Full Stack Developer — ANPTCO (Oman)
-📅 Aug 2025 – Present
+### `Aug 2025 — Present`
 
-✨ Building a multi-role SaaS platform for real-time fuel monitoring and fleet management across multiple client organizations.
+</div>
 
-### 🔥 Highlights
-- 🚚 Real-time tracking for 50+ vehicles using GPSWOX IoT telemetry
-- 🔐 Designed JWT-based RBAC for 5 user roles
-- ⚡ Atomic signup flow using PostgreSQL transactions in Go
-- 📊 Built live dashboards with auto-refresh & protected routing
-- 🏗️ Multi-tenant workspace/member architecture
+✨ Engineering a multi-role SaaS platform for real-time fuel monitoring and fleet management across multiple organizations.
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔥 Core Contributions
+- Multi-tenant SaaS architecture
+- JWT RBAC for 5 user roles
+- Atomic transaction-based signup flow
+- Protected middleware routing
+- Real-time dashboard systems
+
+</td>
+
+<td width="50%">
+
+### 📡 IoT & Realtime
+- GPSWOX telemetry integration
+- 50+ vehicle live tracking
+- Compartment fuel visibility
+- Auto-refresh analytics dashboards
+- Event-driven monitoring systems
+
+</td>
+</tr>
+</table>
 
 ---
+
+<div align="center">
 
 ## 💻 SDE Intern — Roam Mobility Pvt Ltd
-📅 June 2025 – July 2025
+### `June 2025 — July 2025`
 
-### 🚀 Achievements
-- ⚡ Reduced recurring workflow runtime from **15 minutes → 1–2 minutes**
-- ☁️ Automated backend operations using AWS Lambda
-- 🔄 Migrated high-traffic services to Go using goroutines
-- 📈 Improved throughput by ~30% for latency-sensitive APIs
+</div>
+
+🏆 Key Achievements:
+
+- ⚡ Reduced backend workflow runtime from **15 mins → 1–2 mins**
+- ☁️ Automated recurring operations using AWS Lambda
+- 🚀 Improved API throughput by ~30% using Go goroutines
+- 🔄 Eliminated manual operational overhead (~5 hrs/week)
 
 ---
 
-# 📦 Projects
+# 🧠 Featured Projects
+
+<div align="center">
 
 ## 🤖 AI-Powered Exam Preparation Platform
-### FastAPI • Streamlit • Qdrant • RAG • Ollama
 
-📚 Developed a RAG-powered platform enabling:
-- Textbook uploads
-- Semantic search with Qdrant
-- Practice question generation
-- AI answer evaluation
-- Revision notes generation
+</div>
 
-⚡ Achieved answer retrieval in under 2 seconds using vector embeddings and local LLM pipelines.
+### ⚡ Stack
+`FastAPI` • `Qdrant` • `RAG` • `Ollama` • `Streamlit`
+
+### 🎯 Features
+- 📚 Textbook Uploads
+- 🔍 Semantic Vector Search
+- 🧠 AI Question Generation
+- 📝 Answer Evaluation
+- 📖 Smart Revision Notes
+
+### 🚀 Performance
+> Achieved semantic answer retrieval in under **2 seconds**
 
 ---
 
+<div align="center">
+
 ## 🛡️ T.I.E.S Platform
-### FastAPI • MongoDB • JWT • Docker
 
-🚀 Built a scalable backend platform with:
-- OTP verification
-- JWT authentication
-- RBAC for 7 user roles
-- 20+ async REST APIs
-- Dockerized deployment
+</div>
 
-📈 Improved response times by ~40% using optimized indexing and query rewrites.
+### ⚡ Stack
+`FastAPI` • `MongoDB` • `JWT` • `Docker`
+
+### 🔥 Highlights
+- OTP Authentication
+- RBAC for 7 Roles
+- 20+ Async REST APIs
+- Dockerized Backend
+- Optimized MongoDB Queries
+
+📈 Improved response time by **~40%**
 
 ---
 
@@ -112,29 +157,23 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-</div>
+<br><br>
 
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
 
 ---
 
-# 📈 Activity Graph
+# 📈 Contribution Graph
 
 <div align="center">
 
-[![Gautam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true)](https://github.com/YOUR_USERNAME)
 
 </div>
 
@@ -155,15 +194,15 @@
 <div align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:mahligautam83@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -172,6 +211,28 @@
 
 <div align="center">
 
-## ⚡ “Building scalable backend systems with real-world impact.”
+# ⚡ Fun Backend Facts
+
+```yaml
+while(alive):
+   eat()
+   sleep()
+   build_scalable_backends()
+   optimize_queries()
+```
+
+<br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
+
+---
+
+<div align="center">
+
+## 🚀 "Building scalable real-time systems that solve real-world problems."
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
