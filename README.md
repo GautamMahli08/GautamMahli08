@@ -12,7 +12,7 @@ Building scalable backend systems focused on vehicle tracking, fuel monitoring, 
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0e75b6)
+![](https://komarev.com/ghpvc/?username=GautamMahli08&style=for-the-badge&color=0e75b6)
 
 </div>
 
