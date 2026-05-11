@@ -1,18 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Gautam%20Kumar%20Mahli&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Backend%20Engineer%20•%20IoT%20Systems%20•%20Real-Time%20Platforms&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=Gautam%20Kumar%20Mahli&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20•%20IoT%20Systems%20•%20Real-Time%20Platforms&descAlignY=60&animation=fadeIn"/>
 
 <br>
 
-<img src="https://media.licdn.com/dms/image/v2/D4D03AQHflCdv4sNw0g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1699330043093?e=1779926400&v=beta&t=p8V4gFooSHjv3TiRRZ0qP_xlVpovid_yV9ToDKLNGg0" />
+<img width="220" src="https://media.licdn.com/dms/image/v2/D4D03AQHflCdv4sNw0g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1699330043093?e=1779926400&v=beta&t=p8V4gFooSHjv3TiRRZ0qP_xlVpovid_yV9ToDKLNGg0" style="border-radius:50%;" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=950&lines=Backend+Focused+Software+Engineer+🚀;FastAPI+%7C+Go+%7C+MongoDB+%7C+AWS;Building+Real-Time+IoT+Platforms;Fuel+Monitoring+%7C+Fleet+Management;RAG+Applications+%7C+Microservices" />
 
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=GautamMahli08&style=for-the-badge&color=blueviolet"/>
 
-<img src="https://img.shields.io/github/followers/GautamMahli08?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/followers/GautamMahli08?style=for-the-badge&logo=github&color=181717"/>
 
-<img src="https://img.shields.io/github/stars/GautamMahli08?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/GautamMahli08?style=for-the-badge&logo=github&color=181717"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 </div>
 
@@ -22,16 +34,24 @@
 
 ```python
 class GautamMahli:
+
     def __init__(self):
-        self.role = "Backend Focused SDE"
+        self.role = "Backend Focused SDE 🚀"
         self.location = "Ranchi, Jharkhand 🇮🇳"
-        self.languages = ["Python", "Go", "JavaScript", "C++"]
+
+        self.languages = [
+            "Python",
+            "Go",
+            "JavaScript",
+            "C++"
+        ]
+
         self.specialization = [
-            "Real-Time Systems",
-            "IoT Platforms",
-            "Scalable APIs",
-            "RAG Applications",
-            "Microservices"
+            "Real-Time Systems ⚡",
+            "IoT Platforms 📡",
+            "Scalable APIs 🚀",
+            "RAG Applications 🤖",
+            "Microservices 🛰️"
         ]
 
     def current_focus(self):
@@ -64,18 +84,20 @@ class GautamMahli:
 
 </div>
 
-✨ Engineering a multi-role SaaS platform for real-time fuel monitoring and fleet management across multiple organizations.
+✨ Engineering a multi-role SaaS platform for real-time fuel monitoring and fleet management across multiple client organizations.
 
 <table>
 <tr>
+
 <td width="50%">
 
 ### 🔥 Core Contributions
 - Multi-tenant SaaS architecture
 - JWT RBAC for 5 user roles
 - Atomic transaction-based signup flow
-- Protected middleware routing
-- Real-time dashboard systems
+- Middleware-level route protection
+- Secure session management
+- Real-time dashboards
 
 </td>
 
@@ -84,11 +106,12 @@ class GautamMahli:
 ### 📡 IoT & Realtime
 - GPSWOX telemetry integration
 - 50+ vehicle live tracking
-- Compartment fuel visibility
-- Auto-refresh analytics dashboards
+- Fuel compartment visibility
+- Auto-refresh analytics
 - Event-driven monitoring systems
 
 </td>
+
 </tr>
 </table>
 
@@ -101,12 +124,12 @@ class GautamMahli:
 
 </div>
 
-🏆 Key Achievements:
+🏆 Key Achievements
 
-- ⚡ Reduced backend workflow runtime from **15 mins → 1–2 mins**
-- ☁️ Automated recurring operations using AWS Lambda
-- 🚀 Improved API throughput by ~30% using Go goroutines
-- 🔄 Eliminated manual operational overhead (~5 hrs/week)
+- ⚡ Reduced workflow runtime from **15 mins → 1–2 mins**
+- ☁️ Automated backend operations using AWS Lambda
+- 🚀 Improved throughput by ~30% using Go goroutines
+- 🔄 Eliminated repetitive manual operational tasks
 
 ---
 
@@ -115,6 +138,8 @@ class GautamMahli:
 <div align="center">
 
 ## 🤖 AI-Powered Exam Preparation Platform
+
+<img width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
 
 </div>
 
@@ -125,7 +150,7 @@ class GautamMahli:
 - 📚 Textbook Uploads
 - 🔍 Semantic Vector Search
 - 🧠 AI Question Generation
-- 📝 Answer Evaluation
+- 📝 AI Answer Evaluation
 - 📖 Smart Revision Notes
 
 ### 🚀 Performance
@@ -137,6 +162,8 @@ class GautamMahli:
 
 ## 🛡️ T.I.E.S Platform
 
+<img width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+
 </div>
 
 ### ⚡ Stack
@@ -146,7 +173,7 @@ class GautamMahli:
 - OTP Authentication
 - RBAC for 7 Roles
 - 20+ Async REST APIs
-- Dockerized Backend
+- Dockerized Deployment
 - Optimized MongoDB Queries
 
 📈 Improved response time by **~40%**
@@ -157,13 +184,13 @@ class GautamMahli:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GautamMahli08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GautamMahli08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img src="https://streak-stats.demolab.com?user=GautamMahli08&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
 
@@ -173,7 +200,7 @@ class GautamMahli:
 
 <div align="center">
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true)](https://github.com/YOUR_USERNAME)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GautamMahli08&theme=tokyo-night&hide_border=true)](https://github.com/GautamMahli08)
 
 </div>
 
@@ -183,7 +210,7 @@ class GautamMahli:
 
 <div align="center">
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/GautamMahli08/GautamMahli08/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -193,7 +220,7 @@ class GautamMahli:
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/GautamMahli08">
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -235,4 +262,4 @@ while(alive):
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
