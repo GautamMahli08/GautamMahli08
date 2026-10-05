@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/mahligautam83%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=22D3EE&labelColor=0D1117&color=22D3EE"/>
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=GautamMahli08&style=flat-square&color=22D3EE&label=views&labelColor=0D1117"/>
+<img src="https://komarev.com/ghpvc/?username=GautamMahli08&style=flat-square&color=22D3EE&label=views&labelColor=0D1117"k/>
 
 </div>
 
